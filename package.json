@@ -1,0 +1,15 @@
+{
+  "name": "cypress-bugs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.1.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.3"
+  }
+}
